@@ -1,1 +1,4 @@
-this is master dev config
+branch: this is master
+enviroment: 
+  spring: 
+    cloude: dev

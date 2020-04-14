@@ -1,1 +1,4 @@
-this is master config test
+branch: this is master
+enviroment: 
+  spring: 
+    cloude: test
